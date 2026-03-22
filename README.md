@@ -1,6 +1,6 @@
-Project ReactJS w/ Tailwind CSS
+# Project ReactJS w/ Tailwind CSS
 
-Jangan lupa npm install setelah pull repo
+# Jangan lupa npm install setelah pull repo
 
 
 # React + Vite
