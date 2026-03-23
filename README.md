@@ -1,6 +1,14 @@
 # Project ReactJS w/ Tailwind CSS
+Punya kelompok 6.
 
-# Jangan lupa npm install setelah pull repo
+# Langkah-Langkah Mengerjakan
+1. clone repository dengan `git clone <URL repo>`.
+2. Pergi ke terminal/cmd VSCode, jalankan command `cd` ke direktori yang telah di clone.
+3. jalankan `npm install` untuk download dependencies.
+4. Jalankan `git fetch origin` untuk update branch baru.
+5. Gunakan `git branch` untuk melihat list branch yang ada (tanda `*` menunjukkan branch yang sedang aktif).
+6. Jalankan `git checkout <nama-branch>` untuk pindah branch.
+7. Bekerja di branch masing-masing.
 
 
 # React + Vite
