@@ -1,7 +1,7 @@
-export default function Adit() { 
-    return (
-        <div>
-            <h1>Adit</h1>
+export default function Adit() {
+  return (
+    <div>
+      <h1>Adit</h1>
     </div>
-    );
+  );
 }
