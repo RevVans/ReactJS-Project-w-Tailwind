@@ -1,4 +1,4 @@
-import profilePic from '../assets/aditya_foto.jpg';
+import profilePic from '../assets/adityapg_foto.jpg';
 
 export default function Adit() {
   return (
