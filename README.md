@@ -1,5 +1,5 @@
 # Project ReactJS w/ Tailwind CSS
-Punya kelompok 6.
+punya kelompok 6.
 
 # Langkah-Langkah Mengerjakan
 1. clone repository dengan `git clone <URL repo>`.
