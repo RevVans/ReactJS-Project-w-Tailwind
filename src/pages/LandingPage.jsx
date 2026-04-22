@@ -16,6 +16,12 @@ export default function LandingPage() {
         <Link to="/Haikal" className="rounded-lg bg-blue-600 px-6 py-3 font-semibold transition hover:bg-blue-500">
           Haikal
         </Link>
+        <Link to="/ProductPage" className="rounded-lg bg-blue-600 px-6 py-3 font-semibold transition hover:bg-blue-500">
+          Props
+        </Link>
+        <Link to="/TesEffect" className="rounded-lg bg-blue-600 px-6 py-3 font-semibold transition hover:bg-blue-500">
+          Tes Effect
+        </Link>
       </div>
     </div>
   );

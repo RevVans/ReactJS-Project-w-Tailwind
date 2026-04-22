@@ -3,6 +3,8 @@ import LandingPage from './pages/LandingPage';
 import Revandra from './pages/Revandra';
 import Adit from './pages/Adit';
 import Haikal from './pages/Haikal';
+import ProductPage from './pages/ProductPage';
+import TesEffect from './pages/TesEffect';
 import './App.css';
 
 function App() {
@@ -13,6 +15,8 @@ function App() {
         <Route path="/Revandra" element={<Revandra />} />
         <Route path="/Adit" element={<Adit />} />
         <Route path="/Haikal" element={<Haikal />} />
+        <Route path="/ProductPage" element={<ProductPage />} />
+        <Route path="/TesEffect" element={<TesEffect />} />
       </Routes>
     </Router>
   )
